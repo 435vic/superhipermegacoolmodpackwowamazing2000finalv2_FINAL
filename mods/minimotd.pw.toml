@@ -1,0 +1,13 @@
+name = "MiniMOTD"
+filename = "minimotd-fabric-mc1.21.10-2.2.1.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/16vhQOQN/versions/ISCa7MxW/minimotd-fabric-mc1.21.10-2.2.1.jar"
+hash-format = "sha512"
+hash = "bd8440ef1e7b1e3eefc48148bea34fb7bc102c618c4eb69bfdbd3fcbc40c04849d52e292d8ed1f75ec28665f7064d072d45dd04d3ddea60302c0beace9f28ba4"
+
+[update]
+[update.modrinth]
+mod-id = "16vhQOQN"
+version = "ISCa7MxW"

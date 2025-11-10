@@ -93,8 +93,14 @@ hash = "2d4769eb4119243590fdd6b1482480ded6e20ac61c0b7a811d9b7ac0aa733dd7"
 metafile = true
 
 [[files]]
-file = "mods/modernfix-fabric-5.20.4-beta.54+mc1.21.8.c05a.jar"
-hash = "09db495c7031be8d5e34242cb188bf569469eba5a23fa70bf66a4c07d7f98a07"
+file = "mods/minimotd.pw.toml"
+hash = "7d78754d46751eda3715c0859203f37260824476a640afcfaa15eb8b6867491a"
+metafile = true
+
+[[files]]
+file = "mods/modernfix-mvus.pw.toml"
+hash = "d50b7be11b0ef674f0f5b7b4307dc4919683fa63bdc72703912258a528398e61"
+metafile = true
 
 [[files]]
 file = "mods/moreculling.pw.toml"
