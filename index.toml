@@ -122,11 +122,6 @@ hash = "967cba5aa40d4f98462bef4031c58a0faed33e7c02fb6a47a80b879bdfca7936"
 metafile = true
 
 [[files]]
-file = "mods/threadtweak.pw.toml"
-hash = "6836cd1d5c19c3b353d68bb6d6729b0e833ad1063761b5a62a9c158333eab46c"
-metafile = true
-
-[[files]]
 file = "mods/vmp-fabric.pw.toml"
 hash = "5b63d9442b935e7ef1925a3ed03902d1aa2d8e23b59647b7da33af42beb0a310"
 metafile = true
