@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = ".envrc"
+hash = "1d26c74fd25a4c3dbb09e029fc609588da499fd4af2a41c88f6316c7f8c54cf1"
+
+[[files]]
 file = "config/NoChatReports/NCR-Client.json"
 hash = "32dc5f1d73b05e70f3fc5a18f58c5d81a095484a0f93a1da6d1883966ff4e296"
 
@@ -53,63 +57,71 @@ file = "config/vmp.properties"
 hash = "15eec0092ca5c54f97fc46953311e20e63a5eb6bca4672bfec9dae63f61cc456"
 
 [[files]]
+file = "flake.lock"
+hash = "c92628f1340ae84d4c76c53ce39251741696d52e1ec697e155b3e2b834872802"
+
+[[files]]
+file = "flake.nix"
+hash = "eff422411dbbe5bedb7dc16a23b0365a9402f70bd555ab111b4c444be4fb0745"
+
+[[files]]
 file = "mods/badoptimizations.pw.toml"
-hash = "8cc6201c554f27ade4dac531fe03b7de82411b16d435b8c9a3745f466c93ea78"
+hash = "b72d00d529ec694ae354b73f6b36d4ec2b830c60c05cc31f46d00ac7ddf8a26b"
 metafile = true
 
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
-hash = "e54ccd568b4f07d7f4a347bd65de49ee3a87930d6d31b0f34d1834a2d5ebf0e7"
+hash = "a8f073ab0640d9e501fe3fc95d282306000fd6eab3186fd682269c0d0913b307"
 metafile = true
 
 [[files]]
 file = "mods/cloth-config.pw.toml"
-hash = "05de22b45d869f89f9e6e440d79318f8dd4583148f7547061b162631641eafaa"
+hash = "a06ef129798265e0d7249426fb0ed5c506725b0460dc3dfdb975b8978480895e"
 metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-hash = "56cfda22487de786d4cf7178d608d0e168c8b76562a215a7976ae276a0344a32"
+hash = "c23a1be7641341478b09c5c4f835b5e024a246f9e8521e92905bcab0d0e8cce0"
 metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "0c295bb1cc152e03b2d7f5259318c67cb813e92381e47b99fb8c32c8212b3265"
+hash = "45abf05e1cc90006aeb65e4e1bbe97da5a1984f547ea8028a077dae68af0ac11"
 metafile = true
 
 [[files]]
 file = "mods/ferrite-core.pw.toml"
-hash = "c8b474cb0dd9f9e6167aff10ede5829723c61a70bd80677b333fe6f72f9dd2f1"
+hash = "816b735b2ad505476201800a99f527e61b392b712b9d20ca9edcce05f412fe87"
 metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "d6a44115a681b9696185cb1f6d28d536729172c50faf4faed881c79d6167be6c"
+hash = "9e7bacd24307639764f3b74ae35a562b6becf2701637b816de0eaae15ab714c0"
 metafile = true
 
 [[files]]
 file = "mods/lithium.pw.toml"
-hash = "2d4769eb4119243590fdd6b1482480ded6e20ac61c0b7a811d9b7ac0aa733dd7"
+hash = "9a74f9345a91af6a0e2c1975e1dd1d26cfcae6fb072a3a0d68fd9de110ab6327"
 metafile = true
 
 [[files]]
 file = "mods/minimotd.pw.toml"
-hash = "7d78754d46751eda3715c0859203f37260824476a640afcfaa15eb8b6867491a"
+hash = "072589c2436b05489b0e8271d7b2bd51b8e47de9b319541025cd49d412cc6cb1"
 metafile = true
 
 [[files]]
 file = "mods/modernfix-mvus.pw.toml"
-hash = "d50b7be11b0ef674f0f5b7b4307dc4919683fa63bdc72703912258a528398e61"
+hash = "67116d1cf5d38dfd27aded9d675afcc625d720a4d457660ff82db760934d9f4d"
 metafile = true
 
 [[files]]
 file = "mods/moreculling.pw.toml"
-hash = "d1ecd35ee0cbd2a4f57bd8e8128e1ad4e096e51caf515477c54aaa3893cb3493"
+hash = "0544fefc6f04f2b408b2c6b4dd3e4bf7d0a4048f1fad6ddf63357549d7446165"
 metafile = true
 
 [[files]]
 file = "mods/no-chat-reports.pw.toml"
-hash = "94250075119aee5c9b7dfb13b4486aee68d8e2697a3a7f9a56e7e42b00fa7ae4"
+hash = "cd25851cbdaad2dd1957a8086ce54aa4bd3c45be75e1ba49168a54fafbd87898"
 metafile = true
 
 [[files]]
@@ -119,17 +131,17 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "dba3c272e1b8d0fe6abaac922810444164243af9daca93cf58b58dee1151f9ac"
+hash = "9ff1a261860fcb16a7c7f124d738abcdfc1297363412d237540685003ff04d6b"
 metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "967cba5aa40d4f98462bef4031c58a0faed33e7c02fb6a47a80b879bdfca7936"
+hash = "9d340481c374a20067d1748c1a4991626bce9d7812f0bdb96072cd7a15d35462"
 metafile = true
 
 [[files]]
 file = "mods/vmp-fabric.pw.toml"
-hash = "5b63d9442b935e7ef1925a3ed03902d1aa2d8e23b59647b7da33af42beb0a310"
+hash = "147236c9b21df25b05d0715f21faf8c9b89dfa7af9d157c532f8e94887d47a65"
 metafile = true
 
 [[files]]
