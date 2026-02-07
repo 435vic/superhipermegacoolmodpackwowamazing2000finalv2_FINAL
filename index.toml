@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = ".envrc"
-hash = "1d26c74fd25a4c3dbb09e029fc609588da499fd4af2a41c88f6316c7f8c54cf1"
-
-[[files]]
 file = "config/NoChatReports/NCR-Client.json"
 hash = "32dc5f1d73b05e70f3fc5a18f58c5d81a095484a0f93a1da6d1883966ff4e296"
 
@@ -55,14 +51,6 @@ hash = "b4c1cc5fc213225d64e685a3b632092e909386ab41bd9925f9cf7efd53d1ad46"
 [[files]]
 file = "config/vmp.properties"
 hash = "15eec0092ca5c54f97fc46953311e20e63a5eb6bca4672bfec9dae63f61cc456"
-
-[[files]]
-file = "flake.lock"
-hash = "c92628f1340ae84d4c76c53ce39251741696d52e1ec697e155b3e2b834872802"
-
-[[files]]
-file = "flake.nix"
-hash = "eff422411dbbe5bedb7dc16a23b0365a9402f70bd555ab111b4c444be4fb0745"
 
 [[files]]
 file = "mods/badoptimizations.pw.toml"
